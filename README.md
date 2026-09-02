@@ -4,7 +4,7 @@
 *   **Project Name:** Project Chill: Digital Guest Experience & Hyper-Local Order Tracking
 *   **Project Manager / Product Delivery:** [Your Name]
 *   **Design Artifact:** Interactive High-Fidelity Figma Prototype 
-*   **🔗 Live Design Link:** [👉 Click Here to View the Interactive Figma Prototype](PASTE_YOUR_FIGMA_SHARED_LINK_HERE)
+*   **🔗 Live Design Link:** [👉 Click Here to View the Interactive Figma Prototype](https://www.figma.com/design/7TppdxaXpAXDEiTa51rVqb/KINDEX-LOUNGE-MOBILE-APP?node-id=1-21&t=7q18FYT7HNhrTELB-1)
 *   **Target Impact:** Project manage the discovery, user journey mapping, and high-fidelity UI prototyping of a specialized mobile ordering application for a high-volume lounge in Lagos. The platform digitizes table-side ordering, processes instant localized wallet/card payments, and coordinates real-time delivery tracking for off-site VIP premium packages.
 
 ---
